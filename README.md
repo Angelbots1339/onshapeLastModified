@@ -4,12 +4,12 @@
 1. Sign in to the [Developer Portal](https://dev-portal.onshape.com/signin)
 2. Choose `OAuth applications` in the left frame or click [here](https://dev-portal.onshape.com/oauthApps)
 3. Click on `Create new OAuth application` in the upper right corner
-    1. Name: *<Your Application Name>*
-    2. Primary format: *<Inverse of your domain name>* *e.g. org.angelbotics.onshape* 
-    3. Summary: *<Application description>*
+    1. Name: *Your Application Name*
+    2. Primary format: *Inverse of your domain name* *e.g. org.angelbotics.onshape* 
+    3. Summary: *Application description*
     4. Redirect URLs: *urn:ietf:wg:oauth:2.0:oob*
-    5. Admin Team: *<choose your team>*
-    6. OAuth URL: *<leave blank>*
+    5. Admin Team: *choose your team*
+    6. OAuth URL: *leave blank*
     7. Permissions:
         1. *Application can read your profile information*
         2. *Application can read your documents*
